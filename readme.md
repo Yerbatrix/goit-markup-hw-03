@@ -1,1 +1,1 @@
-https://yerbatrix.github.io/goit-markup-hw-02/
+https://yerbatrix.github.io/goit-markup-hw-03/
