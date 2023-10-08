@@ -329,6 +329,7 @@ header > .container {
   cursor: pointer;
   padding: 12px 24px;
   border: 1px solid var(--CORNFLOWER);
+  white-space: nowrap;
 }
 
 .philter-button:hover,
