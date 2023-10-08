@@ -126,6 +126,7 @@ header > .container {
   letter-spacing: 0.02em;
   color: var(--studio-color);
   padding: 24px 0;
+  display: block;
 }
 
 .header-navigation-flex {
@@ -147,16 +148,19 @@ header > .container {
   font-size: 16px;
   line-height: 1.5;
   font-style: normal;
+  padding: 24px;
 }
 
 .address-flex {
   display: flex;
   gap: 40px;
+  align-items: stretch;
 }
 
 .address-link {
   letter-spacing: 0.02em;
   color: var(--main-text-color);
+  display: block;
 }
 
 .address-link:hover,
