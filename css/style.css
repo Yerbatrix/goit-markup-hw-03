@@ -106,17 +106,15 @@ header > .container {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  margin-right: 76px;
 }
 
 .studio {
   color: var(--studio-color);
-  margin-right: 76px;
 }
 
 .studio-footer {
   color: #f4f4fd;
-  display: inline-block;
-  margin-bottom: 16px;
 }
 
 .header-navigation {
@@ -378,6 +376,10 @@ header > .container {
   padding: 100px 0;
 }
 
+.footer-link {
+  display: inline-block;
+  margin-bottom: 16px;
+}
 .footer-catchphrase {
   color: #f4f4fd;
   line-height: 1.5;
