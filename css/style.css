@@ -83,6 +83,11 @@ body {
   padding: 120px 0;
 }
 
+.second-section {
+  padding-top: 120px;
+  padding-bottom: 0;
+}
+
 .imageblock {
   display: block;
   max-width: 100%;
