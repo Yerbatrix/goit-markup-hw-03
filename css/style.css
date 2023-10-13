@@ -48,7 +48,6 @@ body {
   font-family: "Roboto", sans-serif;
   color: var(--main-text-color);
   background-color: var(--main-background-color);
-  width: 1440px;
   margin: 0px auto;
 }
 
@@ -198,6 +197,10 @@ header > .container {
 .order-service-btn:hover,
 .order-service-btn:focus {
   background-color: #404bbf;
+}
+
+.sec-section {
+  padding-bottom: 0px;
 }
 
 .sec-sect-title {
